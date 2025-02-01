@@ -1,6 +1,6 @@
 # Flat Price Analysis in Moscow
 
-This repository contains a Jupyter notebook that analyzes flat prices in Moscow using data from CianParser, which takes them from [Циан](https://www.cian.ru/).
+This repository contains a Jupyter notebook that analyzes flat prices in Moscow using data from CianParser, which takes them from [cian.ru](https://www.cian.ru/).
 
 ## Requirements
 
