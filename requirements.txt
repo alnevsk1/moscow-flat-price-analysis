@@ -1,0 +1,8 @@
+adjustText==1.3.0
+cianparser==1.0.4
+geopandas==0.14.4
+matplotlib==3.9.2
+pandas==2.2.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+
